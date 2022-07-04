@@ -3,3 +3,23 @@ h1 {
   padding-bottom: 8px;
   border-bottom: 1px solid #ddd;
 }
+
+a {
+	display: block;
+	padding: 20px;
+	text-decoration: none;
+	color: #333;
+	border-radius: 10px;
+	border: solid 3px #ccc;
+	background-color: #fff;
+}
+a:hover {
+	background-color: #fffdc5;
+	text-decoration: none;
+}
+.article-area {
+	width: 60%;
+	margin: 0 auto;
+	text-align: center;
+	color: #5c87a6;
+}
